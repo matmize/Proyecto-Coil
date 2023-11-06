@@ -25,3 +25,14 @@
 
 <h3>Definicion del problema </h3>
 <p>¿ Como se pueden reducir las complicaciones en el diagnostico de un embarazo de alto riesgo y del feto durante el trabajo de parto en hospitales Latinoamericanos utilizando tecnologias 4.0 ?</p>
+
+<h3>Introduccion</h3>
+<p>
+    El diagnóstico y manejo de embarazos de alto riesgo y la atención durante el trabajo de parto representan desafíos críticos en el ámbito de la salud materno-infantil en hospitales latinoamericanos. En este contexto, la implementación de tecnologías de la industria 4.0 ofrece una           oportunidad significativa para abordar este problema y reducir las complicaciones asociadas.<br>
+  
+  El enfoque de este estudio se centra en la búsqueda de soluciones innovadoras que permitan mejorar la monitorización de los signos vitales de las madres durante el proceso de parto y, al mismo tiempo, brindar una atención más efectiva y precisa al feto. El uso de tecnologías de   vanguardia se presenta como una respuesta a la necesidad de reducir las complicaciones en el diagnóstico y la atención en estos escenarios críticos.<br>
+  
+  En línea con esta perspectiva, se han explorado diversas ideas, desde la implantación de chips intrusivos hasta el desarrollo de una solución más versátil y menos invasiva. A lo largo de este trabajo, se examinarán estas propuestas con el objetivo de encontrar una solución integral que     combine la monitorización continua y efectiva de los signos vitales con la comodidad y seguridad de las madres, además de una conectividad que permita a los profesionales de la salud tomar decisiones informadas en tiempo real.<br>
+  
+  Este enfoque innovador busca no solo mejorar la atención médica, sino también reducir los riesgos y complicaciones asociados al parto, en beneficio tanto de las madres como de los fetos. Al abordar este desafío con la aplicación de tecnologías 4.0, este estudio pretende contribuir al       avance de la atención médica en el contexto de hospitales latinoamericanos, promoviendo un enfoque más seguro y eficiente en el cuidado de la salud materno-infantil.<br>
+  </p>
