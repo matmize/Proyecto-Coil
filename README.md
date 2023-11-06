@@ -63,3 +63,27 @@ This study addresses the challenge of improving the monitoring of high-risk mate
   
   Este enfoque innovador busca no solo mejorar la atención médica, sino también reducir los riesgos y complicaciones asociados al parto, en beneficio tanto de las madres como de los fetos. Al abordar este desafío con la aplicación de tecnologías 4.0, este estudio pretende contribuir al       avance de la atención médica en el contexto de hospitales latinoamericanos, promoviendo un enfoque más seguro y eficiente en el cuidado de la salud materno-infantil.<br>
   </p>
+
+
+<h3>Resolución de Ideas para la Monitorización de Partos de Alto Riesgo</h3>
+<p>
+   Ante el desafío de mejorar la monitorización de partos maternos de alto riesgo en un entorno hospitalario, se llevó a cabo un proceso de lluvia de ideas con el propósito de identificar la solución óptima. Entre las diversas propuestas consideradas, dos enfoques destacaron y se sometieron a un análisis detenido. <br>
+  
+   Idea 1: Implantación de un Chip Invasivo <br>
+
+La primera idea que se planteó consistía en la implantación de un chip en la madre. Este dispositivo tendría la capacidad de monitorear constantemente los signos vitales tanto de la madre como del feto. La información generada sería accesible para el médico a través de su dispositivo móvil, permitiéndole estar al tanto de los signos vitales en todo momento. Sin embargo, esta idea se desechó por diversas razones. En primer lugar, la implantación del chip se consideró intrusiva y potencialmente rechazada por algunas madres. Además, el procedimiento de implantación y retirada del chip al dar a luz resultaría incómodo y adicional para los médicos, lo que dificultaría su adopción. Además, el chip sería efectivo solo dentro del hospital por razones de seguridad, limitando su utilidad a largo plazo. La necesidad de sensores pequeños y costosos también generó preocupaciones financieras.<br>
+
+  Idea 2: Banda de Muñeca o Bícep para Monitorización<br>
+
+  La segunda idea propuesta consistía en el desarrollo de una banda que se colocaría en la muñeca o el bícep de la madre. Esta banda estaría diseñada para monitorear continuamente los signos vitales maternos durante el parto en el hospital. La idea fue bien recibida debido a su no     intrusividad y facilidad de retirada sin esfuerzo adicional. Sin embargo, surgió la necesidad de monitorizar de forma continua al feto y sus signos vitales.<br>
+
+  Idea 3: Materniguard - Bolsa de Monitorización Innovadora<br>
+  Para abordar la necesidad de una monitorización continua tanto de la madre como del feto, se propuso una tercera idea innovadora: la creación de "Materniguard." Este dispositivo consistiría en una bolsa de material blando, similar a la goma, que permitiría la inserción de un dispositivo equipado con diversos sensores para la monitorización de ambos. La bolsa sería fácilmente reemplazable si se dañara y se fijaría al abdomen de la madre mediante una correa de velcro. La parte de la bolsa en contacto con la piel se diseñaría con materiales suaves para garantizar la comodidad. Los médicos solo tendrían que activar el "Materniguard" y colocarlo en la bolsa, que contaría con una abertura para permitir una monitorización precisa. Este enfoque revolucionario permitiría incluso detectar los movimientos del feto en el abdomen de la madre, asegurando un seguimiento de su regularidad.<br>
+
+  Conectividad y Aplicación Móvil para Seguridad Adicional<br>
+
+Para garantizar una conectividad segura, se propuso el desarrollo de una aplicación móvil. Esta aplicación permitiría al médico de parto acceder de manera segura a los datos a través de la red Wi-Fi del hospital. Esto garantizaría la privacidad de la información de la madre cuando el médico esté fuera del hospital. El "Materniguard" proporcionaría datos en tiempo real y podría enviar alertas al dispositivo móvil del médico de turno en caso de una emergencia, lo que agilizaría la toma de decisiones y reduciría los riesgos tanto para la madre como para el feto.
+
+En resumen, después de considerar múltiples ideas para mejorar la monitorización de los partos de alto riesgo, se optó por el desarrollo del "Materniguard," una solución innovadora que proporciona monitorización constante y no intrusiva tanto de la madre como del feto. Combinado con una aplicación móvil para la seguridad de la información y la recepción de alertas, este enfoque busca revolucionar la atención médica materno-infantil y minimizar los riesgos asociados con los partos de alto riesgo.<br>
+  
+</p>
