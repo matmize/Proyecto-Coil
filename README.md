@@ -136,7 +136,9 @@ Reglas de Acceso:<br>
 2. Se bloquea todo el tráfico no esencial para reducir la superficie de ataque.<br>
 3. Se establecen reglas específicas para proteger los datos críticos y los servicios médicos.<br>
 
-4. Autenticación:<br>
+
+
+<br>4. Autenticación:<br>
 
 La autenticación desempeña un papel fundamental en la seguridad de Materniguard. Utilizamos una autenticación de dos factores (2FA) para garantizar que tanto los datos como los dispositivos sean seguros. La autenticación de dos factores requiere que los usuarios proporcionen dos formas de identificación antes de acceder al sistema:<br>
 
