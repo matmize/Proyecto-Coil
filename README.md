@@ -103,6 +103,7 @@ Dentro de la aplicación, el médico tenía la opción de dar de alta a un pacie
 <img src = "https://github.com/matmize/Proyecto-Coil/assets/83510301/12965190-f283-42e4-9239-c1392203e481" width = "150">
 <img src ="https://github.com/matmize/Proyecto-Coil/assets/83510301/9b6aaad2-1df3-427c-8f7e-f8dce818c9bf" width = "150">
 <img src = "https://github.com/matmize/Proyecto-Coil/assets/83510301/ab12c6f6-53cb-4cb2-a670-8897f3600046" width ="150">
+<img src="https://github.com/matmize/Proyecto-Coil/assets/83510301/d9777043-3dec-4c9c-a721-76a050baa0f2" width="150">
 
 
   
