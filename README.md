@@ -39,7 +39,8 @@
 </p>
 
 <p>
- <h4>Resumen: </h4> En este estudio, se aborda el desafío de mejorar la monitorización de los partos riesgosos maternos en el entorno hospitalario. Se exploraron diferentes enfoques, desde la implantación de un chip intrusivo hasta la creación de una bolsa de material blando llamada Materniguard, diseñada para albergar sensores que monitorean tanto a la madre como al feto. Esta bolsa se sujeta al abdomen de la madre y permite una monitorización constante sin ser intrusiva. Además, se desarrolló una aplicación para dispositivos móviles que permite a los médicos acceder a los datos de manera segura y recibir alertas en tiempo real en caso de una emergencia. Este enfoque innovador busca proporcionar a los profesionales de la salud una herramienta efectiva para tomar decisiones rápidas y minimizar los riesgos durante el parto.
+  <br><br><br> <br><br>
+ <h3>Resumen: </h3> En este estudio, se aborda el desafío de mejorar la monitorización de los partos riesgosos maternos en el entorno hospitalario. Se exploraron diferentes enfoques, desde la implantación de un chip intrusivo hasta la creación de una bolsa de material blando llamada Materniguard, diseñada para albergar sensores que monitorean tanto a la madre como al feto. Esta bolsa se sujeta al abdomen de la madre y permite una monitorización constante sin ser intrusiva. Además, se desarrolló una aplicación para dispositivos móviles que permite a los médicos acceder a los datos de manera segura y recibir alertas en tiempo real en caso de una emergencia. Este enfoque innovador busca proporcionar a los profesionales de la salud una herramienta efectiva para tomar decisiones rápidas y minimizar los riesgos durante el parto.
 </p>
 <br><br><br> <br><br>
 <h3>Definicion del problema </h3>
