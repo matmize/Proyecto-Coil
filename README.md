@@ -87,3 +87,18 @@ Para garantizar una conectividad segura, se propuso el desarrollo de una aplicac
 En resumen, después de considerar múltiples ideas para mejorar la monitorización de los partos de alto riesgo, se optó por el desarrollo del "Materniguard," una solución innovadora que proporciona monitorización constante y no intrusiva tanto de la madre como del feto. Combinado con una aplicación móvil para la seguridad de la información y la recepción de alertas, este enfoque busca revolucionar la atención médica materno-infantil y minimizar los riesgos asociados con los partos de alto riesgo.<br>
   
 </p>
+
+<h3>Funcionamiento De La Aplicacion Seguridad y Redes </h3>
+
+<p>
+ Para la simulación de la aplicación, utilizamos la herramienta de trabajo Figma, que nos permitió crear un prototipo funcional para visualizar cómo debería verse la aplicación en el momento de su desarrollo. En este caso, comenzamos con una pantalla de carga que mostraba la imagen del dispositivo y el nombre del proyecto, "Materniguard". Posteriormente, nos adentramos en el desarrollo de la información que esta aplicación debe contener.<br>
+
+Creamos tres pacientes ficticios dentro de la aplicación, y asignamos un estado a cada uno de ellos, representado por un triángulo de color. Los colores indicaban el estado de urgencia de la revisión con el médico. El verde denotaba que tanto la paciente como el feto se encontraban en buen estado, el naranja señalaba la presencia de alguna anomalía, la cual se describirá más adelante, y el rojo indicaba un estado crítico, generando una alerta al celular del médico debido a un problema grave tanto en la paciente como en el feto.<br>
+
+En tiempo real, la aplicación proporcionaba datos relevantes sobre el estado de la paciente. Estos datos incluían las semanas de embarazo, recordando que en un rango normal, las mujeres dan a luz entre la semana 37 y 42 de embarazo. También se registraba el ritmo cardíaco de la paciente, que debería oscilar entre 60 y 100 pulsaciones por minuto en una persona adulta, así como su frecuencia respiratoria, que debería estar entre 12 y 20 respiraciones por minuto. Además, se monitorizaba la saturación de oxígeno en el cuerpo de la madre, la cual debía estar entre el 85% y el 100%. No obstante, si el médico requería información más detallada, solo tenía que hacer clic en el icono del paciente, que también recopilaba datos del feto para evaluar su estado. Se verificaba si el feto estaba en movimiento y se registraba su ritmo cardíaco, que normalmente oscila entre 110 y 160 latidos por minuto.<br>
+
+Dentro de la aplicación, el médico tenía la opción de dar de alta a un paciente, lo que permitía que "Materniguard" dejara de recopilar datos para atender a un nuevo paciente. Es importante destacar que el médico no podía dar de alta a un paciente en estado de alto riesgo o crítico. En caso de que un paciente se encontrara en estado de alto riesgo o crítico, se generaba una alarma que notificaba al médico y proporcionaba detalles sobre la razón de la alarma. Por ejemplo, la alarma podría indicar que una paciente presentaba un ritmo cardíaco elevado, una frecuencia respiratoria baja y una baja saturación de oxígeno, además de que el feto registraba un ritmo cardíaco anormalmente alto o que no había tenido movimiento en un período de tiempo. Todo esto estaba diseñado para que el médico tuviera acceso a datos en tiempo real y pudiera tomar decisiones rápidas y seguras, asegurando la salud tanto de la paciente como del feto.<br>
+  
+</p>
+
+
