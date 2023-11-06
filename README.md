@@ -42,6 +42,13 @@
   <br><br><br> <br><br>
  <h3>Resumen: </h3> En este estudio, se aborda el desafío de mejorar la monitorización de los partos riesgosos maternos en el entorno hospitalario. Se exploraron diferentes enfoques, desde la implantación de un chip intrusivo hasta la creación de una bolsa de material blando llamada Materniguard, diseñada para albergar sensores que monitorean tanto a la madre como al feto. Esta bolsa se sujeta al abdomen de la madre y permite una monitorización constante sin ser intrusiva. Además, se desarrolló una aplicación para dispositivos móviles que permite a los médicos acceder a los datos de manera segura y recibir alertas en tiempo real en caso de una emergencia. Este enfoque innovador busca proporcionar a los profesionales de la salud una herramienta efectiva para tomar decisiones rápidas y minimizar los riesgos durante el parto.
 </p>
+
+<p>
+<h3>Abstract: </h3>
+This study addresses the challenge of improving the monitoring of high-risk maternal deliveries in a hospital setting. Various approaches were explored, ranging from the implementation of an intrusive chip to the development of a soft-material bag called Materniguard, designed to house sensors that monitor both the mother and the fetus. This bag is securely attached to the mother's abdomen, allowing continuous non-intrusive monitoring. Furthermore, a mobile application was developed, enabling physicians to securely access data and receive real-time alerts in case of emergencies. This innovative approach aims to provide healthcare professionals with an effective tool to make quick decisions and minimize risks during childbirth.
+  
+</p>
+
 <br><br><br> <br><br>
 <h3>Definicion del problema </h3>
 <p>¿ Como se pueden reducir las complicaciones en el diagnostico de un embarazo de alto riesgo y del feto durante el trabajo de parto en hospitales Latinoamericanos utilizando tecnologias 4.0 ?</p>
