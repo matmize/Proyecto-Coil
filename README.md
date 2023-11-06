@@ -6,21 +6,15 @@
   <img src="https://github.com/matmize/Proyecto-Coil/assets/83510301/ac82588e-9bf8-4ac6-99db-b0c04f795391" width="100">
 </p>
 
-<p  align = "center">
+<p align = "center">
   Autores : 
-  
   Alejandro David
-
   Rodrigo Javier
-
   Dennis Ardi
-
   Mateo Montoya
-
+</p>
+<p align = "center">
   Afiliacion :
-
   Universidad de la Sabana
-
   Universidad Católica “Nuestra Señora de la Asunción”
-
 </p>
