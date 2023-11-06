@@ -8,9 +8,9 @@
   Universidad Católica Nuestra Señora de la Asunción<br>
 </H2>
 
-<h1 align= "center">Trabajo : </h1>
+<h1 align= "center">Trabajo : Proyecto Coil </h1>
 <h1 align= "center">
-  Materniguard
+  <br>Materniguard
 </h1>
 
 <p align = "center">
