@@ -1,6 +1,6 @@
 <p align = "center">
-  <img src = "https://github.com/matmize/Proyecto-Coil/assets/83510301/20f7614d-f25a-4a03-bbfa-51ea004b7f4a" width ="200">
-  <img src="https://github.com/matmize/Proyecto-Coil/assets/83510301/ac82588e-9bf8-4ac6-99db-b0c04f795391" width="200">
+  <img src = "https://github.com/matmize/Proyecto-Coil/assets/83510301/20f7614d-f25a-4a03-bbfa-51ea004b7f4a" width ="400">
+  <img src="https://github.com/matmize/Proyecto-Coil/assets/83510301/ac82588e-9bf8-4ac6-99db-b0c04f795391" width="400">
 </p>
 
 <h2 align = "center">
