@@ -5,7 +5,7 @@
 
 <h2 align = "center">
   Universidad de la Sabana<br>
-  Universidad Católica “Nuestra Señora de la Asunción”<br>
+  Universidad Católica Nuestra Señora de la Asunción<br>
 </H2>
 
 <h1 align= "center">Trabajo : </h1>
