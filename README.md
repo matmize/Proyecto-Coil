@@ -7,14 +7,14 @@
 </p>
 
 <p align = "center">
-  Autores : 
-  Alejandro David
-  Rodrigo Javier
-  Dennis Ardi
+  Autores : <br>
+  Alejandro David<br>
+  Rodrigo Javier<br>
+  Dennis Ardi<br>
   Mateo Montoya
 </p>
 <p align = "center">
-  Afiliacion :
-  Universidad de la Sabana
-  Universidad Católica “Nuestra Señora de la Asunción”
+  Afiliacion :<br>
+  Universidad de la Sabana<br>
+  Universidad Católica “Nuestra Señora de la Asunción”<br>
 </p>
