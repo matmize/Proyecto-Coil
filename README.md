@@ -1,3 +1,4 @@
 # Proyecto-Coil
 
-![la sabana](https://github.com/matmize/Proyecto-Coil/assets/83510301/8916a50c-8564-4b82-86f4-fefb48f797cd)
+<img src = "https://github.com/matmize/Proyecto-Coil/assets/83510301/20f7614d-f25a-4a03-bbfa-51ea004b7f4a" width ="48">
+
