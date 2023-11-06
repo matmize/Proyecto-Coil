@@ -129,7 +129,7 @@ El firewall desempeña un papel fundamental en la protección de Materniguard. E
 
 Tipo de Firewall:<br>
 
-Utilizamos un firewall de última generación que incluye funcionalidades avanzadas de inspección de paquetes y filtrado de contenido.<br>
+Utilizamos un firewall de última generación que incluye funcionalidades avanzadas de inspección de paquetes y filtrado de contenido, como por ejemplo el NGFW .<br>
 Reglas de Acceso:<br>
 
 1. Las reglas de acceso se configuran para permitir únicamente la comunicación necesaria entre dispositivos autorizados y el servidor de Materniguard.<br>
