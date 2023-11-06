@@ -106,6 +106,50 @@ Dentro de la aplicación, el médico tenía la opción de dar de alta a un pacie
 <img src="https://github.com/matmize/Proyecto-Coil/assets/83510301/d9777043-3dec-4c9c-a721-76a050baa0f2" width="250">
 
 
+
+  <h4>Uso de Seguridad Avanzada en Materniguard: Protección de Datos y Privacidad</h4><br>
+
+  1. Red Wi-Fi con WPA3:
+
+La base de cualquier sistema de salud digital es una red segura y confiable. Materniguard utiliza una red Wi-Fi con WPA3 (Wi-Fi Protected Access 3), la última versión del protocolo de seguridad Wi-Fi. WPA3 ofrece una encriptación de comunicación más sólida y protege las credenciales de acceso, lo que garantiza que las comunicaciones entre los dispositivos Materniguard y el servidor sean prácticamente impenetrables para amenazas externas. Esto asegura la confidencialidad y la integridad de los datos transmitidos, lo que es fundamental cuando se manejan datos médicos sensibles.<br>
+
+2. Aislamiento de Red:<br>
+
+El aislamiento de red es una medida de seguridad esencial que implementamos en Materniguard para garantizar la protección de datos y la privacidad de los pacientes. En esta estrategia, se crea una red separada y aislada en la que operan exclusivamente los dispositivos y servicios relacionados con Materniguard. Esto significa que los datos de salud y los sistemas de Materniguard están completamente separados de otras redes y sistemas en el entorno hospitalario.<Br>
+
+Beneficios del Aislamiento de Red:<br>
+1. Evita que dispositivos no autorizados o maliciosos accedan a la red de Materniguard.<br>
+2. Proporciona una capa adicional de seguridad, ya que los datos críticos se mantienen en una red cerrada y protegida.<br>
+3. Minimiza la superficie de ataque al limitar la exposición de Materniguard a posibles amenazas externas.<br>
+4. Garantiza la confidencialidad y la integridad de los datos transmitidos dentro de la red cerrada.<br>
+
+3. Firewall y Reglas de Acceso:<br>
+
+El firewall desempeña un papel fundamental en la protección de Materniguard. Establece una barrera entre la red de Materniguard y otras redes, permitiendo un control preciso del tráfico de datos. Además, se aplican reglas de acceso específicas para determinar qué dispositivos y servicios pueden comunicarse con Materniguard y bajo qué condiciones. Las reglas de acceso se definen cuidadosamente para minimizar riesgos y proteger contra intrusiones no deseadas.<br>
+
+Tipo de Firewall:<br>
+
+Utilizamos un firewall de última generación que incluye funcionalidades avanzadas de inspección de paquetes y filtrado de contenido.<br>
+Reglas de Acceso:<br>
+
+1. Las reglas de acceso se configuran para permitir únicamente la comunicación necesaria entre dispositivos autorizados y el servidor de Materniguard.<br>
+2. Se bloquea todo el tráfico no esencial para reducir la superficie de ataque.<br>
+3. Se establecen reglas específicas para proteger los datos críticos y los servicios médicos.<br>
+
+4. Autenticación:<br>
+
+La autenticación desempeña un papel fundamental en la seguridad de Materniguard. Utilizamos una autenticación de dos factores (2FA) para garantizar que tanto los datos como los dispositivos sean seguros. La autenticación de dos factores requiere que los usuarios proporcionen dos formas de identificación antes de acceder al sistema:<br>
+
+Contraseña segura: Los usuarios deben ingresar una contraseña fuerte, que debe cumplir con ciertos estándares de complejidad, como la inclusión de letras mayúsculas, minúsculas, números y caracteres especiales.<br>
+
+Token de autenticación: Además de la contraseña, se requiere un token de autenticación único, que puede ser un código generado por una aplicación de autenticación en el teléfono del usuario.<br>
+
+Ventajas de la Autenticación de Dos Factores:<br>
+
+1. Aumenta significativamente la seguridad al requerir dos formas distintas de autenticación.<br>
+2. Protege contra el acceso no autorizado incluso si la contraseña se ve comprometida.<br>
+3. En conjunto, estas medidas de seguridad detalladas garantizan que Materniguard sea un entorno altamente seguro para el monitoreo de pacientes y datos médicos sensibles. Nuestro compromiso con la seguridad y la privacidad sigue siendo fundamental para proporcionar atención de calidad y confianza a las futuras madres y sus bebés.<br>
+
   
 </p>
 
