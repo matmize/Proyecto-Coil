@@ -112,7 +112,26 @@ No existe manera de trasladar esta información a base de los sensores en un sis
 
 </p>
 
+<img src="https://github.com/matmize/Proyecto-Coil/assets/83510301/88c16f40-d41a-457b-81b0-34b10f8bf462" width = "600"><br>
+<p>Tabla 4. Complicacion en embarazo actual </p><br>
 
+<p>
+  Muchos de estos factores de riesgo son decisivos pero lastimosamente no podemos medir cada uno de ellos por lo que el siguiente paso es identificar de todos los factores cuales actualmente disponemos la posibilidad de controlar y medir teniendo en cuenta la tecnología actual y los criterios planteados anteriormente.
+Criterios y restricciones
+Poseer un banco de datos del paciente
+Debe ser cómodo 
+Portátil para el usuario
+Debe estar constantemente conectado a internet o por lo menos el actualizar diariamente el estado de de datos
+Bateria duradera
+Debe ser capaz de identificar la mayor cantidad de factores posibles cumpliendo los criterios anteriormente citados
+Lo ideal sería que no sea demasiado costoso 
+ni de uso complejo
+Factores a tener en cuenta y cómo se identifican 
+Recapitulando los distintos factores de riesgos solo podemos monitorear aquellos de complicación en embarazo actual, mientras que los restantes factores anteriormente citados, serán considerados en una base de datos.
+
+En la lista de factores de complicaciones en embarazo actual tenemos las consideraciones de cómo identificar cada una de ellas, todas estas recopiladas de la página web medica de stanford para la salud de los niños, representado en la tabla 5 :
+
+</p>
 
 
 
