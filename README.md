@@ -270,6 +270,70 @@ Ventajas de la Autenticación de Dos Factores:<br>
 </p>
 
 
+<h2>
+  Bloques de Banda
+</h2>
+<p>
+
+Aqui debe de ir la explicacion deel diagrama de bloques de banda
+
+  
+</p>
+
+
+
+
+<h2>Componentes</h2>
+
+<p>
+  1. Bateria Lipo : Capacidad de la batería: 250 mAh, Tipo de batería: Ion de litio, Voltaje de la batería: 3,7, Edad mínima recomendada: 8 años<br>
+  2.El TCK401G y el TCK402G tienen un voltaje de entrada alto de 28 V. Circuitos integrados de controladores FET externos. Tienen un amplio rango de voltaje de entrada. Y Cuentan con un controlador de control de velocidad de giro con paquete pequeño WCSP6E.
+    (0,8 mm x 1,2 mm, altura: 0,55 mm). También pueden bloquear la corriente inversa. si el interruptor se apaga mediante el uso de un FET de serie externo. Así son adecuado para selector de administración de energía como carga de batería.<br>
+  3. MIC2800 Buck de 2 MHz y 600 mA + LDO dual de 300 mA con modo LowQ, El MIC2800 es un CI de administración de energía de alto rendimiento que ofrece tres voltajes de salida con la máxima eficiencia. Al integrar un convertidor CC/CC de 2 MHz con un post regulador LDO, el MIC2800 ofrece       dos salidas de alta eficiencia con un segundo LDO de 300 mA para máxima flexibilidad. El MIC2800 cuenta con un modo LowQ®, que reduce el consumo de corriente total mientras está en este modo a menos de 30 µA. En el modo LowQ®, el ruido de salida del convertidor de CC a CC es de 75         µVRMS, significativamente menor que el de otros convertidores que utilizan un modo de carga ligera PFM que puede interferir con circuitos de RF sensibles. El convertidor de CC a CC utiliza valores pequeños de L y C para reducir el espacio en la placa pero aún conserva eficiencias           superiores al 90% con corrientes de carga de hasta 600 mA. El MIC2800 tiene un diseño μCap, que funciona con inductores y capacitores cerámicos de salida muy pequeños para mayor estabilidad, lo que reduce el espacio requerido en la placa y el costo de los componentes.<br>
+
+  4. Los interruptores de carga integrados son interruptores electrónicos que se pueden utilizar para encender y apagar los rieles de suministro de energía. Los TCK106AG, TCK107AG y TCK108AG son circuitos integrados de interruptor de carga. para una gestión general de la energía con           controlador de control de velocidad de giro, con baja resistencia ON y operación de amplio voltaje de entrada desde 1,1 a 5,5 V. La resistencia de encendido es típica de solo 34 mΩ a 5,0 V, -0,5 A La condición y la corriente de salida están disponibles en 1,0 A. TCK107AG y
+    TCK108AG cuenta con función de descarga automática de salida. Estos dispositivos están disponibles en un paquete ultrapequeño con un paso de 0,4 mm. WCSP4D (0,79 mm x 0,79 mm, t: 0,55 mm). Por lo tanto, este dispositivo es ideal para aplicaciones portátiles que requieren tablero de         alta densidad ensamblaje como teléfono celular<br>
+  5. ESP32 de 38 Pines es una placa de desarrollo que integra el microcontrolador ESP32-WROOM-32 SMD de Espressif. Esta placa permite controlar todo tipo de sensores, módulos y actuadores mediante WIFI y BLUETOOTH, para proyectos de Internet de las cosas “IoT” de forma eficiente y económica<br>
+  6. Monitorear tu pulso cardíaco es ahora más sencillo con la ayuda del sensor de pulso cardiaco fotoeléctrico, diseñado para un fácil uso, especialmente con la plataforma Arduino. Para utilizar el sensor solo es necesario alimentarlo con un voltaje entre 3V a 5V DC y conectar la salida Analógica a la entrada analógica (ADC) de un microcontrolador como Arduino o Pic.<br>
+
+  7. El circuito integrado AS7024 dispone de tres luces LED, fotodiodos, y un front-end óptico y secuenciador para la medición del ritmo cardíaco, así como un front-end analógico para la realización de electrocardiogramas, todo ello en un encapsulado de perfil bajo (6,1×2,7 mm).
+Su diseño de referencia también facilita la realización de mediciones calculadas del tono vagal y la elasticidad arterial, así como de la temperatura cutánea y su resistividad a través de interfaces para sensores externos.
+Gracias a su pequeño factor de forma, este sensor de presión arterial es idóneo para su uso con bandas de fitness, relojes inteligentes, relojes deportivos, y parches inteligentes en los cuales el espacio en la placa se encuentra limitado.<br>
+  8. LM35 es un sensor de temperatura con dimensiones reducidas, tiene un encapsulado TO-92 de 3 pines. Su salida es analógica y lineal con una pendiente de 10mV /ºC. Permite medir temperatura desde −55°C a 150°C, te ayudará a realizar aplicaciones como termómetros, termostatos, sistemas de monitoreo y más.<br>
+  9. Los dispositivos LM324B y LM2902B son las versiones de próxima generación de los amplificadores operacionales (op amps) estándar de la industria LM324 y LM2902, que incluyen cuatro amplificadores operacionales de alto voltaje (36 V). Estos dispositivos brindan un valor excepcional para aplicaciones sensibles a los costos, con características que incluyen compensación baja (600 µV, típica), rango de entrada de modo común a tierra y capacidad de voltaje de entrada diferencial alto.<br>
+  10. Las pantallas OLED se destacan por su gran contraste, mínimo consumo de energía y buena calidad de imagen. El display oled 0.96″ posee una resolución de 128X64 píxeles, permitiendo controlar cada píxel individualmente y mostrar tanto texto como gráficos. Además por ser de tipo OLED no necesita de retroiluminación (Backlight) como los LCD, lo que hace que su consumo de energía sea mucho menor y aumenta su contraste.
+La interfaz de comunicación es de tipo I2C y puede trabajar con sistemas desde 3V hasta 5V gracias a su regulador y conversores en la placa. Debemos tener en cuenta que los pines I2C son diferentes para cada modelo de Arduino, por lo que debemos revisar el Pinout de nuestro Arduino para saber cuales son los pines I2C.<br>
+
+  11.Zumbadores Transductor, impulsado externamente Piezoeléctrico 1.5 V 4kHz 65dB a 1.5V, 10cm Montaje en superficie Almohadillas de soldar<br>
+  12. La memoria flash, también conocida como almacenamiento flash, es un tipo de memoria no volátil que borra datos en unidades llamadas bloques y reescribe datos a nivel de bytes. La memoria flash se utiliza ampliamente para el almacenamiento y la transferencia de datos en dispositivos de consumo, sistemas empresariales y aplicaciones industriales. La memoria flash retiene datos durante un período prolongado independientemente de si un dispositivo equipado con flash está encendido o apagado. <br>
+
+
+</p>
+
+
+<h3>Faja medidora</h3>
+
+<p>
+Explicacion del diagrama de la faja medidora
+  
+</p>
+
+<p>Figura 10 </p>
+
+<h3>Componentes Faja medidora </h3>
+
+<p>
+  1.ESP32 de 38 Pines es una placa de desarrollo que integra el microcontrolador ESP32-WROOM-32 SMD de Espressif. Esta placa permite controlar todo tipo de sensores, módulos y actuadores mediante WIFI y BLUETOOTH, para proyectos de Internet de las cosas “IoT” de forma eficiente y económica.<br>
+  2. El módulo de rango ultrasónico AJ-SR04M está diseñado mediante el uso de una sonda tipo stripline (línea de tira) impermeable integrada con transceptor y receptor. Se basa en tecnología de detección ultrasónica sin contacto. En el rango de 20 cm a 800 cm, puede detectar con precisión la distancia entre objetos planos, y en el rango de 20 cm a 250 cm, puede medir con precisión a las personas. Ideal por su pequeño tamaño y su bajo costo. Usado en aplicaciones de robótica, para evitar obstáculos, medición de distancia de objetos y medición de altura humana, control de espacio de estacionamiento, seguridad y control industrial, etc.<br>
+  3.Introduzca el dedo en el interior del glucómetro no invasivo, de tal manera que exista un leve contacto entre el sensor de emisión y el sensor de recepción. En este último la presión ejercida debe ser mínima ya que puede ocasionar medidas erróneas.<br>
+  4.Banda anatómica: Su diseño es de una banda que da soporte al abdomen, elevando y mejorando la sensación de pesadez sobre la zona pélvica. Su utilidad es tanto en el embarazo como en el posparto.
+Palas lumbares: Sostienen la columna para lograr una postura óptima y aliviando el dolor de espalda que se genera por el peso. Esta faja para la barriga se puede usar cuando lo desees, tanto en el hogar como en el trabajo.
+Tensores laterales: Banda ajustable, se ajusta a la presión que se necesita en cada etapa del embarazo.
+
+
+  
+</p>
+
 
 
 <h2>Referencias </h2>
