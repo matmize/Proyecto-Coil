@@ -64,6 +64,28 @@ This study addresses the challenge of improving the monitoring of high-risk mate
   Este enfoque innovador busca no solo mejorar la atención médica, sino también reducir los riesgos y complicaciones asociados al parto, en beneficio tanto de las madres como de los fetos. Al abordar este desafío con la aplicación de tecnologías 4.0, este estudio pretende contribuir al       avance de la atención médica en el contexto de hospitales latinoamericanos, promoviendo un enfoque más seguro y eficiente en el cuidado de la salud materno-infantil.<br>
   </p>
 
+<h3>Entendimiendo del problema</h3>
+
+<p>
+  En el libro "El embarazo de alto riesgo" [12], el Dr. Paulino Vigil de Gracia (2020) define el embarazo de alto riesgo como el riesgo de complicaciones durante el curso del embarazo, parto o posparto.
+
+Por lo tanto, el monitoreo de la gestante no termina después del parto, ya que existen riesgos y problemas que pueden presentarse después del parto. Es fundamental continuar con el monitoreo fuera de la institución hospitalaria durante un período de tiempo que abarque desde antes hasta después del embarazo. Esto afectará el diseño final del producto, lo que define el primer criterio: debe ser portátil y capaz de ser llevado por la gestante para su comodidad, en lugar de ser un dispositivo fijo en el hospital.
+
+Entre los factores principales que contribuyen a los problemas del embarazo se incluyen los factores psicosociales, antecedentes médicos, antecedentes reproductivos y las condiciones del embarazo actual. Es necesario identificar oportunamente todos los posibles riesgos fetales, neonatales y maternos, que existen desde antes de cada factor de riesgo, y que pueden tener un impacto y complicaciones específicas para el feto, la madre o ambos [12].
+  
+</p>
+
+<h3>Definicion de los factores de riesgo</h3>
+<p>
+  El Dr. Paulino Vigil de Gracia (2020) sostiene abiertamente que todas las mujeres embarazadas están en riesgo de experimentar algún tipo de complicación. De acuerdo con su enfoque, ningún paciente está exento de riesgos evidentes. Por lo tanto, clasifica estos factores de riesgo en función de las conductas sociales, los antecedentes médicos y los acontecimientos actuales. Este enfoque permite llevar a cabo un análisis de lo que se puede realizar, lo que ya no es factible y los aspectos que deben considerarse al realizar diagnósticos de riesgo.
+  
+</p>
+<h3>Factores Psicosociales</h3>
+<p>
+  Se hace referencia a conductas relacionadas con el aspecto social, donde se observan comportamientos de la gestante que pueden o no corregirse. Muchos de estos comportamientos no pueden ser monitoreados al cien por ciento, ya que no son variables controlables en su totalidad. Por lo tanto, se requiere simplificar algunos de estos factores y relacionarlos con los distintos tipos de sensores disponibles que, al menos, guarden una correlación con los parámetros medibles. Todo esto se basa en investigaciones en el campo de la medicina que nos proporcionen información precisa sobre la correlación de estos parámetros con los factores psicosociales estos valores estan representados en la tabla 1.
+</p>
+
+
 
 <h3>Resolución de Ideas para la Monitorización de Partos de Alto Riesgo</h3>
 <p>
@@ -182,6 +204,8 @@ Ventajas de la Autenticación de Dos Factores:<br>
   
   [10] ¿Qué es un firewall de nueva generación (NGFW)? - cloudflare, https://www.cloudflare.com/es-es/learning/security/what-is-next-generation-firewall-ngfw/ (accessed Nov. 7, 2023). <br>
 
-  [11] S. Fern&amp;aacute;ndez, “Aplicaciones de Autenticación en dos pasos: Qué son, Cómo Funcionan y las mejores opciones,” Xataka Android - Sistema operativo móviles Google, Play store, Apps, https://www.xatakandroid.com/listas/aplicaciones-autenticacion-dos-pasos-que-como-funcionan-mejores-opciones (accessed Nov. 6, 2023). 
+  [11] S. Fern&amp;aacute;ndez, “Aplicaciones de Autenticación en dos pasos: Qué son, Cómo Funcionan y las mejores opciones,” Xataka Android - Sistema operativo móviles Google, Play store, Apps, https://www.xatakandroid.com/listas/aplicaciones-autenticacion-dos-pasos-que-como-funcionan-mejores-opciones (accessed Nov. 6, 2023). <br>
+
+  [12] P. Vigil, "El embarazo de alto riesgo," 2020, pp. 26-27.
   
 </p>
