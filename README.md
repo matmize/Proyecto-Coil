@@ -77,7 +77,7 @@ Entre los factores principales que contribuyen a los problemas del embarazo se i
 
 <h3>Definicion de los factores de riesgo</h3>
 <p>
-  El Dr. Paulino Vigil de Gracia (2020) sostiene abiertamente que todas las mujeres embarazadas están en riesgo de experimentar algún tipo de complicación. De acuerdo con su enfoque, ningún paciente está exento de riesgos evidentes. Por lo tanto, clasifica estos factores de riesgo en función de las conductas sociales, los antecedentes médicos y los acontecimientos actuales. Este enfoque permite llevar a cabo un análisis de lo que se puede realizar, lo que ya no es factible y los aspectos que deben considerarse al realizar diagnósticos de riesgo.
+  El Dr. Paulino Vigil de Gracia (2020) [12]. Sostiene abiertamente que todas las mujeres embarazadas están en riesgo de experimentar algún tipo de complicación. De acuerdo con su enfoque, ningún paciente está exento de riesgos evidentes. Por lo tanto, clasifica estos factores de riesgo en función de las conductas sociales, los antecedentes médicos y los acontecimientos actuales. Este enfoque permite llevar a cabo un análisis de lo que se puede realizar, lo que ya no es factible y los aspectos que deben considerarse al realizar diagnósticos de riesgo.
   
 </p>
 <h3>Factores Psicosociales</h3>
