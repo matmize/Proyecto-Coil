@@ -109,15 +109,15 @@ Dentro de la aplicación, el médico tenía la opción de dar de alta a un pacie
 
   <h4>Uso de Seguridad Avanzada en Materniguard: Protección de Datos y Privacidad</h4><br>
 
-  1. Red Wi-Fi con WPA3:
+  1. Red Wi-Fi con WPA3 :
 
-La base de cualquier sistema de salud digital es una red segura y confiable. Materniguard utiliza una red Wi-Fi con WPA3 (Wi-Fi Protected Access 3), la última versión del protocolo de seguridad Wi-Fi. WPA3 ofrece una encriptación de comunicación más sólida y protege las credenciales de acceso, lo que garantiza que las comunicaciones entre los dispositivos Materniguard y el servidor sean prácticamente impenetrables para amenazas externas. Esto asegura la confidencialidad y la integridad de los datos transmitidos, lo que es fundamental cuando se manejan datos médicos sensibles.<br>
+La base de cualquier sistema de salud digital es una red segura y confiable. Materniguard utiliza una red Wi-Fi con WPA3 (Wi-Fi Protected Access 3), la última versión del protocolo de seguridad Wi-Fi. WPA3 ofrece una encriptación de comunicación más sólida y protege las credenciales de acceso, lo que garantiza que las comunicaciones entre los dispositivos Materniguard y el servidor sean prácticamente impenetrables para amenazas externas. Esto asegura la confidencialidad y la integridad de los datos transmitidos, lo que es fundamental cuando se manejan datos médicos sensibles. [6] <br>
 
 2. Aislamiento de Red:<br>
 
-El aislamiento de red es una medida de seguridad esencial que implementamos en Materniguard para garantizar la protección de datos y la privacidad de los pacientes. En esta estrategia, se crea una red separada y aislada en la que operan exclusivamente los dispositivos y servicios relacionados con Materniguard. Esto significa que los datos de salud y los sistemas de Materniguard están completamente separados de otras redes y sistemas en el entorno hospitalario.<Br>
+El aislamiento de red es una medida de seguridad esencial que implementamos en Materniguard para garantizar la protección de datos y la privacidad de los pacientes. En esta estrategia, se crea una red separada y aislada en la que operan exclusivamente los dispositivos y servicios relacionados con Materniguard. Esto significa que los datos de salud y los sistemas de Materniguard están completamente separados de otras redes y sistemas en el entorno hospitalario. [7] <Br>
 
-Beneficios del Aislamiento de Red:<br>
+Beneficios del Aislamiento de Red [8]:<br>
 1. Evita que dispositivos no autorizados o maliciosos accedan a la red de Materniguard.<br>
 2. Proporciona una capa adicional de seguridad, ya que los datos críticos se mantienen en una red cerrada y protegida.<br>
 3. Minimiza la superficie de ataque al limitar la exposición de Materniguard a posibles amenazas externas.<br>
@@ -125,11 +125,11 @@ Beneficios del Aislamiento de Red:<br>
 
 3. Firewall y Reglas de Acceso:<br>
 
-El firewall desempeña un papel fundamental en la protección de Materniguard. Establece una barrera entre la red de Materniguard y otras redes, permitiendo un control preciso del tráfico de datos. Además, se aplican reglas de acceso específicas para determinar qué dispositivos y servicios pueden comunicarse con Materniguard y bajo qué condiciones. Las reglas de acceso se definen cuidadosamente para minimizar riesgos y proteger contra intrusiones no deseadas.<br>
+El firewall desempeña un papel fundamental en la protección de Materniguard. Establece una barrera entre la red de Materniguard y otras redes, permitiendo un control preciso del tráfico de datos. Además, se aplican reglas de acceso específicas para determinar qué dispositivos y servicios pueden comunicarse con Materniguard y bajo qué condiciones. Las reglas de acceso se definen cuidadosamente para minimizar riesgos y proteger contra intrusiones no deseadas.[9]<br>
 
 Tipo de Firewall:<br>
 
-Utilizamos un firewall de última generación que incluye funcionalidades avanzadas de inspección de paquetes y filtrado de contenido, como por ejemplo el NGFW .<br>
+Utilizamos un firewall de última generación que incluye funcionalidades avanzadas de inspección de paquetes y filtrado de contenido, como por ejemplo el NGFW . [10] <br>
 Reglas de Acceso:<br>
 
 1. Las reglas de acceso se configuran para permitir únicamente la comunicación necesaria entre dispositivos autorizados y el servidor de Materniguard.<br>
@@ -140,7 +140,7 @@ Reglas de Acceso:<br>
 
 <br>4. Autenticación:<br>
 
-La autenticación desempeña un papel fundamental en la seguridad de Materniguard. Utilizamos una autenticación de dos factores (2FA) para garantizar que tanto los datos como los dispositivos sean seguros. La autenticación de dos factores requiere que los usuarios proporcionen dos formas de identificación antes de acceder al sistema:<br>
+La autenticación desempeña un papel fundamental en la seguridad de Materniguard. Utilizamos una autenticación de dos factores (2FA) para garantizar que tanto los datos como los dispositivos sean seguros. La autenticación de dos factores requiere que los usuarios proporcionen dos formas de identificación antes de acceder al sistema: [11] <br>
 
 Contraseña segura: Los usuarios deben ingresar una contraseña fuerte, que debe cumplir con ciertos estándares de complejidad, como la inclusión de letras mayúsculas, minúsculas, números y caracteres especiales.<br>
 
@@ -169,5 +169,18 @@ Ventajas de la Autenticación de Dos Factores:<br>
 
   [4]Pulsioximetría: Prueba de Laboratorio de Medlineplus (no date) MedlinePlus. Available at: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria/#:~:text=Un%20nivel%20de%20saturaci%C3%B3n%20de,una%20zona%20con%20mayor%20elevaci%C3%B3n. (Accessed: 06 November 2023). <br>
 
-  [5] “Stanford Medicine Children’s health,” Fetal Heart Monitoring, https://www.stanfordchildrens.org/es/topic/default?id=fetalheartmonitoring-92-P09290#:~:text=La%20frecuencia%20card%C3%ADaca%20fetal%20promedio,feto%20ante%20las%20condiciones%20intrauterinas. (accessed Nov. 6, 2023). 
+  [5] “Stanford Medicine Children’s health,” Fetal Heart Monitoring, https://www.stanfordchildrens.org/es/topic/default?id=fetalheartmonitoring-92-P09290#:~:text=La%20frecuencia%20card%C3%ADaca%20fetal%20promedio,feto%20ante%20las%20condiciones%20intrauterinas. (accessed Nov. 6, 2023). <br>
+
+  [6]  “▷ WEP, WPA, WPA2, WPA 3 Protocolos de Seguridad Inalámbrica,” Blog de VADAVO, https://www.vadavo.com/blog/protocolos-seguridad-inalambrica-wep-wpa-wpa2-wpa3/#:~:text=WPA3%20introduce%20mejoras%20significativas%20en,para%20abordar%20las%20vulnerabilidades%20pasadas. (accessed Nov. 6, 2023). <br>
+
+  [7] “Aislamiento en equipos de la red ,” Aislamiento de equipos de la Red, https://support.kaspersky.com/KESWin/11.9.0/es-ES/214777.htm (accessed Nov. 6, 2023). <br>
+
+  [8] Kaspersky, “¿Qué es el aislamiento del navegador y cómo funciona?,” latam.kaspersky.com, https://latam.kaspersky.com/resource-center/definitions/what-is-browser-isolation (accessed Nov. 6, 2023). <br>  
+
+  [9] P. Hita, “Qué son los firewall, sus tipos, Reglas y Herramientas.,” IUKANET, https://www.iukanet.com/es/blog/que-son-los-firewall (accessed Nov. 6, 2023). <br>
+  
+  [10] ¿Qué es un firewall de nueva generación (NGFW)? - cloudflare, https://www.cloudflare.com/es-es/learning/security/what-is-next-generation-firewall-ngfw/ (accessed Nov. 7, 2023). <br>
+
+  [11] S. Fern&amp;aacute;ndez, “Aplicaciones de Autenticación en dos pasos: Qué son, Cómo Funcionan y las mejores opciones,” Xataka Android - Sistema operativo móviles Google, Play store, Apps, https://www.xatakandroid.com/listas/aplicaciones-autenticacion-dos-pasos-que-como-funcionan-mejores-opciones (accessed Nov. 6, 2023). 
+  
 </p>
