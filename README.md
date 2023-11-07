@@ -280,6 +280,10 @@ Aqui debe de ir la explicacion deel diagrama de bloques de banda
   
 </p>
 
+ <img src="https://github.com/matmize/Proyecto-Coil/assets/83510301/e915fb43-dec5-4642-8de2-f558a1683963" width ="600"><br>
+ <p>
+   Figura 9. Diagrama de bloque de banda
+ </p>
 
 
 
@@ -317,8 +321,8 @@ La interfaz de comunicación es de tipo I2C y puede trabajar con sistemas desde 
 Explicacion del diagrama de la faja medidora
   
 </p>
-
-<p>Figura 10 </p>
+<img src = "https://github.com/matmize/Proyecto-Coil/assets/83510301/f0387991-6c3b-4e1a-ba6a-74314d47b684" width = "600"><br>
+<p>Figura 10. Componentes faja medidora  </p>
 
 <h3>Componentes Faja medidora </h3>
 
