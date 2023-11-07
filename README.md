@@ -339,6 +339,31 @@ Tensores laterales: Banda ajustable, se ajusta a la presión que se necesita en 
 </p>
 
 
+<h3>Proceso de ideacion y bocetos </h3>
+
+<p>
+Con la idea de Materniguard ya establecida, lo que se buscó fue plasmarla en papel para visualizar cómo debería ser el diseño. Posteriormente, se creó un render en Inventor para obtener un diseño en 3D, esto se va a poder ver en las figuras 11,12,13 .
+</p>
+
+<img src = "https://github.com/matmize/Proyecto-Coil/assets/83510301/4ab572c7-fc97-40e0-9057-007f3f323f81" width ="600"><br>
+<p>Figura 11. Boceto en papel </p>
+ <img src = "https://github.com/matmize/Proyecto-Coil/assets/83510301/5c06ad90-deea-4066-bd89-734f8b42e386" width ="600"><br>
+<p>Figura 12. Render en 3d</p>
+<img src = "https://github.com/matmize/Proyecto-Coil/assets/83510301/37452389-e9bf-49dd-9948-4bbf3b04ad4d" width ="600"><br>
+<p>Figura 13. Modelo Final</p>
+
+
+<h3>Documentacion de la ecperiencia internacional </h3>
+
+<p>
+  En las figuras 14 y 15 se podran ver pruebas del trabajo en grupo entre los estudiantes de la Universidad Catolica Nuestra Señora de la Asuncion y el estudiante de la Universidad de la Sabana 
+</p>
+
+<img src = "https://github.com/matmize/Proyecto-Coil/assets/83510301/c0b075ba-d58d-4d0f-a0c3-f3fdf80cf2be" width = "600"><br>
+<p>Firua 14. Trabajo en Conjnuto </p>
+<img src = "https://github.com/matmize/Proyecto-Coil/assets/83510301/e4bb7d47-37ef-40c3-97de-573f5c778be4" width ="600"><br>
+<p>Figura 15 Trabajo en Conjunto 2</p>
+
 
 <h2>Referencias </h2>
 
