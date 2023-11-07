@@ -133,6 +133,8 @@ En la lista de factores de complicaciones en embarazo actual tenemos las conside
 
 </p>
 
+<img src="https://github.com/matmize/Proyecto-Coil/assets/83510301/af516f42-4d63-4365-bc0f-53ceda90b0fb" width ="600"><br>
+<p>Tabla 5. Factores a tener en cuenta y como se identifican</p><br>
 
 
 
