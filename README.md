@@ -95,7 +95,7 @@ En resumen, después de considerar múltiples ideas para mejorar la monitorizaci
 
 Creamos tres pacientes ficticios dentro de la aplicación, y se asigno un estado a cada uno de ellos, representado por un triángulo de color. Los colores indican el estado de urgencia del paciente . El verde denotaba que tanto la paciente como el feto se encuentran en buen estado, el naranja señala la presencia de alguna anomalía, la cual se describirá más adelante, y el rojo indicaba un estado crítico, generando una alerta al celular del médico debido a un problema grave tanto en la paciente como en el feto.<br>
 
-En tiempo real, la aplicación proporcionaba datos relevantes sobre el estado de la paciente. Estos datos incluían las semanas de embarazo, recordando que en un rango normal, las mujeres dan a luz entre la semana 37 y 42 de embarazo[]. También se registraba el ritmo cardíaco de la paciente, que debería oscilar entre 60 y 100 pulsaciones por minuto en una persona adulta [], así como su frecuencia respiratoria, que debería estar entre 12 y 20 respiraciones por minuto[]. Además, se monitorizaba la saturación de oxígeno en el cuerpo de la madre, la cual debía estar entre el 85% y el 100%[]. No obstante, si el médico requería información más detallada, solo tendra que hacer clic en el icono del paciente, que también recopilaba datos del feto para evaluar su estado. Se verificaba si el feto estaba en movimiento y se registra su ritmo cardíaco, que normalmente oscila entre 110 y 160 latidos por minuto[].<br>
+En tiempo real, la aplicación proporcionaba datos relevantes sobre el estado de la paciente. Estos datos incluían las semanas de embarazo, recordando que en un rango normal, las mujeres dan a luz entre la semana 37 y 42 de embarazo[1]. También se registraba el ritmo cardíaco de la paciente, que debería oscilar entre 60 y 100 pulsaciones por minuto en una persona adulta [2], así como su frecuencia respiratoria, que debería estar entre 12 y 20 respiraciones por minuto[3]. Además, se monitorizaba la saturación de oxígeno en el cuerpo de la madre, la cual debía estar entre el 85% y el 100%[4]. No obstante, si el médico requería información más detallada, solo tendra que hacer clic en el icono del paciente, que también recopilaba datos del feto para evaluar su estado. Se verificaba si el feto estaba en movimiento y se registra su ritmo cardíaco, que normalmente oscila entre 110 y 160 latidos por minuto[5].<br>
 
 Dentro de la aplicación, el médico tenía la opción de dar de alta a un paciente, lo que permitía que "Materniguard" dejara de recopilar datos para atender a un nuevo paciente. Es importante destacar que el médico no podía dar de alta a un paciente en estado de alto riesgo o crítico. En caso de que un paciente se encuentre en estado de alto riesgo o crítico, se genera una alarma que notifica al médico y proporciona detalles sobre la razón de la alarma. Por ejemplo, la alarma podría indicar que una paciente presentaba un ritmo cardíaco elevado, una frecuencia respiratoria baja y una baja saturación de oxígeno, además de que el feto registra un ritmo cardíaco anormalmente alto o que no había tenido movimiento en un período de tiempo. Todo esto estaba diseñado para que el médico tenga acceso a datos en tiempo real y pueda tomar decisiones rápidas y seguras, asegurando la salud tanto de la paciente como del feto.<br>
 
@@ -156,3 +156,18 @@ Ventajas de la Autenticación de Dos Factores:<br>
 </p>
 
 
+
+
+<h2>Referencias </h2>
+
+<p>
+  [1] ¿Cuándo Suele Comenzar El trabajo de parto? (2019) Eunice Kennedy Shriver National Institute of Child Health and Human Development. Available at: https://espanol.nichd.nih.gov/salud/temas/labor-delivery/informacion/trabajo (Accessed: 06 November 2023). <br>
+
+  [2] Edward R. Laskowski, M.D. (2022) Dos maneras fáciles y precisas de Medir Tu Frecuencia Cardíaca, Mayo Clinic. Available at: https://www.mayoclinic.org/es/healthy-lifestyle/fitness/expert-answers/heart-rate/faq-20057979#:~:text=Una%20frecuencia%20card%C3%ADaca%20en%20reposo,un%20mejor%20estado%20f%C3%ADsico%20cardiovascular. (Accessed: 06 November 2023). <br>
+  
+  [3] Signos Vitales (temperatura corporal, Pulso, Frecuencia Respiratoria, Presión Arterial) (no date) Vital Signs (Body Temperature, Pulse Rate, Respiration Rate, Blood Pressure) - Health Encyclopedia - University of Rochester Medical Center. Available at: https://www.urmc.rochester.edu/encyclopedia/content.aspx?ContentTypeID=85&amp;ContentID=P03963#:~:text=Cuando%20controle%20la%20respiraci%C3%B3n%2C%20tambi%C3%A9n,y%2020%20respiraciones%20por%20minuto. (Accessed: 06 November 2023). <br>
+
+  [4]Pulsioximetría: Prueba de Laboratorio de Medlineplus (no date) MedlinePlus. Available at: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria/#:~:text=Un%20nivel%20de%20saturaci%C3%B3n%20de,una%20zona%20con%20mayor%20elevaci%C3%B3n. (Accessed: 06 November 2023). <br>
+
+  [6] “Stanford Medicine Children’s health,” Fetal Heart Monitoring, https://www.stanfordchildrens.org/es/topic/default?id=fetalheartmonitoring-92-P09290#:~:text=La%20frecuencia%20card%C3%ADaca%20fetal%20promedio,feto%20ante%20las%20condiciones%20intrauterinas. (accessed Nov. 6, 2023). 
+</p>
