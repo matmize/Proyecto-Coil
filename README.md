@@ -345,7 +345,8 @@ En la figura 16 se podra ver el codigo que se planteo para la simulacion de la b
 </p>
 
 
-
+<img src = "https://github.com/matmize/Proyecto-Coil/assets/83510301/20702a90-1959-483a-828f-09cb6e1b315f" width ="600"><br>
+<p>Figura 16. Codigo de Simulacion de Banda </p>
 
 
 
