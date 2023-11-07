@@ -232,7 +232,7 @@ Ventajas de la Autenticación de Dos Factores:<br>
   Ecosistema IoT Simplificado 
 </h3>
 <p>
-  Para la implementación de esta solución, aplicaremos el modelo más básico de un ecosistema IoT con el objetivo de simplificar y adquirir la comprensión necesaria de los fundamentos requeridos para iniciar un modelo o prototipo que utilice la tecnología 4.0. Además, esto nos permitirá cumplir con los criterios y requerimientos previamente mencionados, representados en la figura 6 y 7 .
+  Para la implementación de esta solución, aplicaremos el modelo más básico de un ecosistema IoT con el objetivo de simplificar y adquirir la comprensión necesaria de los fundamentos requeridos para iniciar un modelo o prototipo que utilice la tecnología 4.0. Además, esto nos permitirá cumplir con los criterios y requerimientos previamente mencionados, representados en la figura 6  .
 </p>
 
 <h3>
@@ -248,12 +248,14 @@ Ventajas de la Autenticación de Dos Factores:<br>
   Nube o Banco de Datos: La nube es donde se almacenan los datos recopilados por los dispositivos IoT. Proporciona la capacidad de procesamiento y almacenamiento necesarios para analizar grandes cantidades de información.<br>
 
   Aplicaciones y Servicios: Las aplicaciones o servicios consumen y procesan los datos recopilados por los dispositivos IoT. Pueden ser paneles de control, aplicaciones móviles, servicios de monitoreo remoto o sistemas de alerta.<br>
+
+  representado en la figura 7
 </P>
 
 <img src="https://github.com/matmize/Proyecto-Coil/assets/83510301/de3db7b3-ac58-423b-b052-33854e14afdf" width = "600"><br>
-<p>Figura 6. </p>
+<p>Figura 6. Elementos del ecosistema IoT </p>
 <img src="https://github.com/matmize/Proyecto-Coil/assets/83510301/12e92f19-4a34-4a53-b5fa-336f30350243" width="600"><br>
-<p>Figura 7. </p>
+<p>Figura 7. Elementos del ecosistema IoT </p>
 
 <h3>Diagrama teorico de conexion en la nube simplicado</h3>
 <p>
@@ -262,7 +264,10 @@ Ventajas de la Autenticación de Dos Factores:<br>
 </p>
 
 
-
+<img src = "https://github.com/matmize/Proyecto-Coil/assets/83510301/bac6e95d-32a3-48d7-9f6e-5c74c4b7375a" width ="600"><br>
+<p>
+  Figura 8. Diagrama Teorico
+</p>
 
 
 
