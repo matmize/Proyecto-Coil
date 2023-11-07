@@ -250,8 +250,10 @@ Ventajas de la Autenticación de Dos Factores:<br>
   Aplicaciones y Servicios: Las aplicaciones o servicios consumen y procesan los datos recopilados por los dispositivos IoT. Pueden ser paneles de control, aplicaciones móviles, servicios de monitoreo remoto o sistemas de alerta.<br>
 </P>
 
-
-
+<img src="https://github.com/matmize/Proyecto-Coil/assets/83510301/de3db7b3-ac58-423b-b052-33854e14afdf" width = "600"><br>
+<p>Figura 6. </p>
+<img src="https://github.com/matmize/Proyecto-Coil/assets/83510301/12e92f19-4a34-4a53-b5fa-336f30350243" width="600"><br>
+<p>Figura 7. </p>
 
 
 
