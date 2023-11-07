@@ -228,6 +228,30 @@ Ventajas de la Autenticación de Dos Factores:<br>
 
   
 </p>
+<h3>
+  Ecosistema IoT Simplificado 
+</h3>
+<p>
+  Para la implementación de esta solución, aplicaremos el modelo más básico de un ecosistema IoT con el objetivo de simplificar y adquirir la comprensión necesaria de los fundamentos requeridos para iniciar un modelo o prototipo que utilice la tecnología 4.0. Además, esto nos permitirá cumplir con los criterios y requerimientos previamente mencionados, representados en la figura 6 y 7 .
+</p>
+
+<h3>
+  Elementos del Ecosistema IoT:
+</h3>
+<P>
+  Dispositivos: En esta categoría se incluyen los dispositivos físicos con capacidad de conexión a Internet que recopilan datos. Estos dispositivos pueden ser sensores, actuadores, cámaras o cualquier objeto capaz de recolectar información o interactuar con el entorno.<br>
+
+  Conectividad: Los dispositivos IoT se conectan a Internet a través de diferentes tecnologías, como Wi-Fi, Bluetooth, Zigbee, LoRa, 3G/4G/5G, etc. La elección de la tecnología depende de la aplicación y el alcance del proyecto.<br>
+
+  Plataforma: Una plataforma IoT sirve como el núcleo de operaciones donde se gestionan los dispositivos, se almacenan los datos y se realiza el procesamiento. Esta plataforma puede abarcar desde la gestión de dispositivos hasta el análisis de datos.<br>
+
+  Nube o Banco de Datos: La nube es donde se almacenan los datos recopilados por los dispositivos IoT. Proporciona la capacidad de procesamiento y almacenamiento necesarios para analizar grandes cantidades de información.<br>
+
+  Aplicaciones y Servicios: Las aplicaciones o servicios consumen y procesan los datos recopilados por los dispositivos IoT. Pueden ser paneles de control, aplicaciones móviles, servicios de monitoreo remoto o sistemas de alerta.<br>
+</P>
+
+
+
 
 
 
