@@ -169,5 +169,5 @@ Ventajas de la Autenticación de Dos Factores:<br>
 
   [4]Pulsioximetría: Prueba de Laboratorio de Medlineplus (no date) MedlinePlus. Available at: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria/#:~:text=Un%20nivel%20de%20saturaci%C3%B3n%20de,una%20zona%20con%20mayor%20elevaci%C3%B3n. (Accessed: 06 November 2023). <br>
 
-  [6] “Stanford Medicine Children’s health,” Fetal Heart Monitoring, https://www.stanfordchildrens.org/es/topic/default?id=fetalheartmonitoring-92-P09290#:~:text=La%20frecuencia%20card%C3%ADaca%20fetal%20promedio,feto%20ante%20las%20condiciones%20intrauterinas. (accessed Nov. 6, 2023). 
+  [5] “Stanford Medicine Children’s health,” Fetal Heart Monitoring, https://www.stanfordchildrens.org/es/topic/default?id=fetalheartmonitoring-92-P09290#:~:text=La%20frecuencia%20card%C3%ADaca%20fetal%20promedio,feto%20ante%20las%20condiciones%20intrauterinas. (accessed Nov. 6, 2023). 
 </p>
