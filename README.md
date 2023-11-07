@@ -86,13 +86,23 @@ Entre los factores principales que contribuyen a los problemas del embarazo se i
 
   
 </p>
-<img src ="https://github.com/matmize/Proyecto-Coil/assets/83510301/bcf7abf9-10f5-42da-8907-204fc5eda34f" width = "250"><br>
+<img src ="https://github.com/matmize/Proyecto-Coil/assets/83510301/bcf7abf9-10f5-42da-8907-204fc5eda34f" width = "400"><br>
 <p>Tabla 1. Factores Psicosociales</p><br>
 
 <p>
-Antecedentes Médicos
+<h4>Antecedentes Médicos</h4>
 No existe manera de trasladar esta información a base de los sensores en un sistema embebido pero al ser algo que no podemos descartar es obligatoria su implementación en algún tipo de banco de datos sobre el paciente, representado en la Tabla 2 .
 </p>
+<img src="https://github.com/matmize/Proyecto-Coil/assets/83510301/c431be33-4e1d-4428-a731-073e8e7ea80d" width ="400"><br>
+<p>Tabla 2. Antecedentes Medicos</p><br>
+
+<h4>Antecedentes Reproductivos</h4>
+<p>
+  De igual manera que los antecedentes médicos en nuestro enfoque sólo podemos tenerlos en cuenta en el sistema de banco de datos para su consideración en el momento de realizar el diagnóstico.
+
+  
+</p>
+
 
 
 
