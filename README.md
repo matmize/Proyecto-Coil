@@ -255,6 +255,15 @@ Ventajas de la Autenticación de Dos Factores:<br>
 <img src="https://github.com/matmize/Proyecto-Coil/assets/83510301/12e92f19-4a34-4a53-b5fa-336f30350243" width="600"><br>
 <p>Figura 7. </p>
 
+<h3>Diagrama teorico de conexion en la nube simplicado</h3>
+<p>
+  En el diagrama podemos apreciar la la idea de conectividad y flujo de datos que tendría nuestro prototipo, básicamente el usuario estaría generando datos los cuales serán captados por los sensores, procesados por el sistema embebido el cual también es encargado de brindar la conectividad, lo que hace posible que en una plataforma se presente la base de datos y la aplicación, en estas el usuario tendrá la capacidad de recibir la retroalimentación por parte del análisis y diagnóstico dado por el hospital, además de tener la posibilidad de aumentar la eficiencia del diagnóstico de riesgo completando encuestas en las cuales se compilaron los distintos factores de riesgo los cuales no pueden ser captados por los sensores, representado en la figura 8.
+
+</p>
+
+
+
+
 
 
 
