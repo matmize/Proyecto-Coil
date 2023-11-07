@@ -98,10 +98,21 @@ No existe manera de trasladar esta información a base de los sensores en un sis
 
 <h4>Antecedentes Reproductivos</h4>
 <p>
-  De igual manera que los antecedentes médicos en nuestro enfoque sólo podemos tenerlos en cuenta en el sistema de banco de datos para su consideración en el momento de realizar el diagnóstico.
+  De igual manera que los antecedentes médicos en nuestro enfoque sólo podemos tenerlos en cuenta en el sistema de banco de datos para su consideración en el momento de realizar el diagnóstico, representado en la Tabla 3.
 
   
 </p>
+
+<img src="https://github.com/matmize/Proyecto-Coil/assets/83510301/a2ea950f-3ae3-4c0f-946d-1b0f95588b9c" width ="600"><br>
+<p>Tabla 3. Antecedentes Reproductivos</p><br>
+
+<h4>Factores de complicación en embarazo actual</h4>
+<p>
+  La gestión es un proceso dinámico o continuo, un factor de riesgo puede evidenciarse en cualquier momento y puede persistir permanentemente o desaparecer al cabo de un tiempo, por lo que es algo variable y es decisivo su constante monitoreo por lo que debemos prestar suma atención a dos criterios, debe ser cómodo para el usuario y estar constantemente conectado,representado en la tabla 4.
+
+</p>
+
+
 
 
 
