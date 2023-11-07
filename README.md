@@ -338,6 +338,20 @@ Tensores laterales: Banda ajustable, se ajusta a la presión que se necesita en 
   
 </p>
 
+<h3>Codigo de Simulacion de banda</h3>
+
+<p>
+En la figura 16 se podra ver el codigo que se planteo para la simulacion de la banda anatamocia para el trabajo
+</p>
+
+
+
+
+
+
+
+
+
 
 <h3>Proceso de ideacion y bocetos </h3>
 
