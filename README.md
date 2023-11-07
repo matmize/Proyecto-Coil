@@ -178,8 +178,8 @@ De la misma manera, un paciente podrá acceder a su información y ver tanto el 
 <img src ="https://github.com/matmize/Proyecto-Coil/assets/83510301/9b6aaad2-1df3-427c-8f7e-f8dce818c9bf" width = "250"><p> Figura 3. simulado en Figma</p>
 <img src = "https://github.com/matmize/Proyecto-Coil/assets/83510301/ab12c6f6-53cb-4cb2-a670-8897f3600046" width ="250"><p> Figura 4. simulado en Figma</p>
 <img src="https://github.com/matmize/Proyecto-Coil/assets/83510301/d9777043-3dec-4c9c-a721-76a050baa0f2" width="250"><p> Figura 5. simulado en Figma</p>
-: <img src = "https://github.com/matmize/Proyecto-Coil/assets/83510301/9749949b-bbf1-45dc-b90e-2518c78278d6" width ="600"><p>Figura 6. simulado en Figma</p>
-<img src = "https://github.com/matmize/Proyecto-Coil/assets/83510301/1523f89d-2b7f-41ce-a604-fdb5463b5db4" width ="600"><p>Figura7. simulado en Figma</p>
+: <img src = "https://github.com/matmize/Proyecto-Coil/assets/83510301/9749949b-bbf1-45dc-b90e-2518c78278d6" width ="600"><p>Figura 17. simulado en Figma</p>
+<img src = "https://github.com/matmize/Proyecto-Coil/assets/83510301/1523f89d-2b7f-41ce-a604-fdb5463b5db4" width ="600"><p>Figura 18. simulado en Figma</p>
 
 
   <h4>Uso de Seguridad Avanzada en Materniguard: Protección de Datos y Privacidad</h4><br>
