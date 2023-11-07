@@ -170,7 +170,7 @@ En tiempo real, la aplicación proporcionaba datos relevantes sobre el estado de
 
 Dentro de la aplicación, el médico tenía la opción de dar de alta a un paciente, como se muestra en la figura 4, lo que permite que "Materniguard" dejara de recopilar datos para atender a un nuevo paciente. Es importante destacar que el médico no podía dar de alta a un paciente en estado de alto riesgo o crítico . En caso de que un paciente se encuentre en estado de alto riesgo o crítico, se genera una alarma que notifica al médico y proporciona detalles sobre la razón de la alarma. Por ejemplo, la alarma podría indicar que una paciente presentaba un ritmo cardíaco elevado, una frecuencia respiratoria baja y una baja saturación de oxígeno, además de que el feto registra un ritmo cardíaco anormalmente alto o que no había tenido movimiento en un período de tiempo. Todo esto estaba diseñado para que el médico tenga acceso a datos en tiempo real y pueda tomar decisiones rápidas y seguras, asegurando la salud tanto de la paciente como del feto representado en la figura 5.<br>
 
-De la misma manera, un paciente podrá acceder a su información y ver tanto el estado del feto como su propio estado. Además, recibirá mensajes a través de la aplicación que le brindarán recomendaciones, como por ejemplo descansar. En caso de que el médico esté ocupado y no haya podido revisar el celular, la aplicación también le indicará que debe llamar a un médico de manera urgente para prevenir riesgos. Todo esto se mostrará en las figuras 6 y 7.
+De la misma manera, un paciente podrá acceder a su información y ver tanto el estado del feto como su propio estado. Además, recibirá mensajes a través de la aplicación que le brindarán recomendaciones, como por ejemplo descansar. En caso de que el médico esté ocupado y no haya podido revisar el celular, la aplicación también le indicará que debe llamar a un médico de manera urgente para prevenir riesgos. Todo esto se mostrará en las figuras 17 y 18.
 
 <img src="https://github.com/matmize/Proyecto-Coil/assets/83510301/ff40f9e2-7eed-43c3-8299-d51123475117" width="250"> <br>
 <p> Figura 1. simulado en Figma</p>
@@ -178,7 +178,8 @@ De la misma manera, un paciente podrá acceder a su información y ver tanto el 
 <img src ="https://github.com/matmize/Proyecto-Coil/assets/83510301/9b6aaad2-1df3-427c-8f7e-f8dce818c9bf" width = "250"><p> Figura 3. simulado en Figma</p>
 <img src = "https://github.com/matmize/Proyecto-Coil/assets/83510301/ab12c6f6-53cb-4cb2-a670-8897f3600046" width ="250"><p> Figura 4. simulado en Figma</p>
 <img src="https://github.com/matmize/Proyecto-Coil/assets/83510301/d9777043-3dec-4c9c-a721-76a050baa0f2" width="250"><p> Figura 5. simulado en Figma</p>
-
+: <img src = "https://github.com/matmize/Proyecto-Coil/assets/83510301/9749949b-bbf1-45dc-b90e-2518c78278d6" width ="600"><p>Figura 6. simulado en Figma</p>
+<img src = "https://github.com/matmize/Proyecto-Coil/assets/83510301/1523f89d-2b7f-41ce-a604-fdb5463b5db4" width ="600"><p>Figura7. simulado en Figma</p>
 
 
   <h4>Uso de Seguridad Avanzada en Materniguard: Protección de Datos y Privacidad</h4><br>
