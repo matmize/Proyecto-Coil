@@ -83,6 +83,15 @@ Entre los factores principales que contribuyen a los problemas del embarazo se i
 <h3>Factores Psicosociales</h3>
 <p>
   Se hace referencia a conductas relacionadas con el aspecto social, donde se observan comportamientos de la gestante que pueden o no corregirse. Muchos de estos comportamientos no pueden ser monitoreados al cien por ciento, ya que no son variables controlables en su totalidad. Por lo tanto, se requiere simplificar algunos de estos factores y relacionarlos con los distintos tipos de sensores disponibles que, al menos, guarden una correlación con los parámetros medibles. Todo esto se basa en investigaciones en el campo de la medicina que nos proporcionen información precisa sobre la correlación de estos parámetros con los factores psicosociales estos valores estan representados en la tabla 1.
+
+  
+</p>
+<img src ="https://github.com/matmize/Proyecto-Coil/assets/83510301/bcf7abf9-10f5-42da-8907-204fc5eda34f" width = "250"><br>
+<p>Tabla 1. Factores Psicosociales</p><br>
+
+<p>
+Antecedentes Médicos
+No existe manera de trasladar esta información a base de los sensores en un sistema embebido pero al ser algo que no podemos descartar es obligatoria su implementación en algún tipo de banco de datos sobre el paciente, representado en la Tabla 2 .
 </p>
 
 
