@@ -15,7 +15,6 @@
 
 <p align = "center">
   Alumnos : <br>
-  Alejandro David<br>
   Rodrigo Javier<br>
   Dennis Ardi<br>
   Mateo Montoya
@@ -272,14 +271,8 @@ Ventajas de la Autenticación de Dos Factores:<br>
 
 
 <h2>
-  Bloques de Banda
+  Bloques de Banda en la figura 9
 </h2>
-<p>
-
-Aqui debe de ir la explicacion deel diagrama de bloques de banda
-
-  
-</p>
 
  <img src="https://github.com/matmize/Proyecto-Coil/assets/83510301/e915fb43-dec5-4642-8de2-f558a1683963" width ="600"><br>
  <p>
