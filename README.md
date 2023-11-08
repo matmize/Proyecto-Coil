@@ -311,10 +311,7 @@ La interfaz de comunicación es de tipo I2C y puede trabajar con sistemas desde 
 
 <h3>Faja medidora</h3>
 
-<p>
-Explicacion del diagrama de la faja medidora
-  
-</p>
+
 <img src = "https://github.com/matmize/Proyecto-Coil/assets/83510301/f0387991-6c3b-4e1a-ba6a-74314d47b684" width = "600"><br>
 <p>Figura 10. Componentes faja medidora  </p>
 
