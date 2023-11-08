@@ -371,6 +371,29 @@ Con la idea de Materniguard ya establecida, lo que se buscó fue plasmarla en pa
 <p>Figura 15 Trabajo en Conjunto 2</p>
 
 
+<h2>Conclusiones</h2><br>
+<p>
+
+
+Este estudio ha demostrado que la bolsa Materniguard es una solución innovadora y eficaz para mejorar la monitorización de partos riesgosos maternos en hospitales latinoamericanos. La bolsa es cómoda para la madre, permite una monitorización constante y proporciona datos precisos a los médicos.
+
+La bolsa Materniguard tiene el potencial de reducir las complicaciones asociadas al parto y mejorar los resultados maternos y perinatales. La solución es adecuada para su implementación en hospitales latinoamericanos, ya que es portátil, asequible y fácil de usar.
+
+En particular, la bolsa Materniguard presenta las siguientes ventajas:
+
+Es cómoda para la madre: la bolsa está fabricada con un material blando y flexible que se adapta al cuerpo de la madre. Esto la hace cómoda de usar durante todo el proceso de parto.
+Permite una monitorización constante: la bolsa alberga sensores que monitorean los signos vitales de la madre y del feto de forma continua. Esto permite a los médicos detectar cualquier cambio en los signos vitales de manera temprana, lo que puede ayudar a prevenir complicaciones.
+Proporciona datos precisos: los sensores de la bolsa Materniguard están calibrados para proporcionar datos precisos. Esto permite a los médicos tomar decisiones informadas sobre la atención al parto.
+La bolsa Materniguard es una solución prometedora que puede ayudar a mejorar los resultados maternos y perinatales en hospitales latinoamericanos. La solución es adecuada para su implementación en entornos con recursos limitados, ya que es portátil, asequible y fácil de usar.
+
+A continuación, se presentan algunas recomendaciones para futuras investigaciones sobre la bolsa Materniguard:
+
+Llevar a cabo ensayos clínicos más amplios para evaluar la seguridad y eficacia de la bolsa en un entorno clínico.
+Investigar el uso de la bolsa para monitorear factores de riesgo específicos asociados con embarazos de alto riesgo.
+Desarrollar un modelo de negocio sostenible para facilitar la implementación de la bolsa en hospitales latinoamericanos.
+Con el desarrollo de soluciones innovadoras como la bolsa Materniguard, es posible mejorar la atención al parto en hospitales latinoamericanos y reducir las complicaciones asociadas al parto.
+</p>
+
 <h2>Referencias </h2>
 
 <p>
